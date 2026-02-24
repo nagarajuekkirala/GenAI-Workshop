@@ -1,0 +1,7 @@
+"""
+Solve step by step:
+
+Question: {question}
+
+Reason carefully before giving final answer.
+"""

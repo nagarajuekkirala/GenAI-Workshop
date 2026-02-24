@@ -1,0 +1,7 @@
+"""
+Explain {topic} using:
+1. Definition
+2. Example
+3. Key formula
+Limit to 150 words.
+"""

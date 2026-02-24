@@ -1,0 +1,15 @@
+"""
+Classify the sentiment of the given text as Positive, Negative, or Neutral.
+
+Text: I loved the product!
+Sentiment: Positive
+
+Text: The service was horrible.
+Sentiment: Negative
+
+Text: It was okay, nothing special.
+Sentiment: Neutral
+
+Text: {query}
+Sentiment:
+"""
